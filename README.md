@@ -1,6 +1,6 @@
 # Email Queue Service
 
-This project provides an asynchronous email sending service using Redis queues, customizable HTML templates, and a RESTful API to send email requests. The service is containerized using Docker for easy deployment.
+This project provides an asynchronous email sending service using Redis queues, customizable HTML templates, and a RESTful API to send email requests. 
 
 ## Features
 
